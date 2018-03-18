@@ -16,3 +16,6 @@
 	textconv = astextplain
 [rebase]
 	autosquash = true
+[user]
+	name = AndrewEst
+	email = andrei.voitenko96@gmail.com
